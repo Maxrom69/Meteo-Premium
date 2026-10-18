@@ -1,0 +1,6 @@
+{
+  "name": "Météo Premium",
+  "description": "A high-performance weather dashboard inspired by MétéoMédia, featuring real-time local forecasts and hourly insights.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
